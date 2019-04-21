@@ -1,0 +1,11 @@
+﻿  Źródło.c
+C:\Users\AJ\Desktop\NaGit\Szyfr\Szyfr\Źródło.c(7): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\AJ\Desktop\NaGit\Szyfr\Szyfr\Źródło.c(9): warning C4013: niezdefiniowany "islower"; przy założeniu, że extern zwraca int
+C:\Users\AJ\Desktop\NaGit\Szyfr\Szyfr\Źródło.c(10): warning C4013: niezdefiniowany "toupper"; przy założeniu, że extern zwraca int
+C:\Users\AJ\Desktop\NaGit\Szyfr\Szyfr\Źródło.c(15): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\AJ\Desktop\NaGit\Szyfr\Szyfr\Źródło.c(67): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\AJ\Desktop\NaGit\Szyfr\Szyfr\Źródło.c(132): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\AJ\Desktop\NaGit\Szyfr\Szyfr\Źródło.c(204): warning C4013: niezdefiniowany "gets"; przy założeniu, że extern zwraca int
+C:\Users\AJ\Desktop\NaGit\Szyfr\Szyfr\Źródło.c(240): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\AJ\Desktop\NaGit\Szyfr\Szyfr\Źródło.c(272): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Szyfr.vcxproj -> C:\Users\AJ\Desktop\NaGit\Szyfr\Debug\Szyfr.exe
